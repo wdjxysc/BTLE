@@ -1,0 +1,69 @@
+
+/* Class = "IBUITabBarItem"; title = "计步"; ObjectID = "1lH-U2-FT8"; */
+"1lH-U2-FT8.title" = "计步";
+
+/* Class = "IBUILabel"; text = "O"; ObjectID = "5pE-v7-jUm"; */
+"5pE-v7-jUm.text" = "O";
+
+/* Class = "IBUILabel"; text = "0.000"; ObjectID = "6IH-tO-tuj"; */
+"6IH-tO-tuj.text" = "0.000";
+
+/* Class = "IBUILabel"; text = "km"; ObjectID = "6RJ-lQ-Vsb"; */
+"6RJ-lQ-Vsb.text" = "km";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "8bX-3h-BcW"; */
+"8bX-3h-BcW.text" = "2";
+
+/* Class = "IBUILabel"; text = "0.000"; ObjectID = "A8V-D0-ZdU"; */
+"A8V-D0-ZdU.text" = "0.000";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "B2y-tF-udX"; */
+"B2y-tF-udX.text" = "2";
+
+/* Class = "IBUILabel"; text = "O"; ObjectID = "OUh-bb-bif"; */
+"OUh-bb-bif.text" = "O";
+
+/* Class = "IBUILabel"; text = "路  程"; ObjectID = "ZTC-oy-d0A"; */
+"ZTC-oy-d0A.text" = "路  程";
+
+/* Class = "IBUILabel"; text = "kcal"; ObjectID = "ceH-9I-s2d"; */
+"ceH-9I-s2d.text" = "kcal";
+
+/* Class = "IBUITabBarItem"; title = "历史"; ObjectID = "eNQ-e0-pFI"; */
+"eNQ-e0-pFI.title" = "历史";
+
+/* Class = "IBUITabBarItem"; title = "云数据"; ObjectID = "eo6-r9-Rxo"; */
+"eo6-r9-Rxo.title" = "云数据";
+
+/* Class = "IBUIButton"; normalTitle = "历史计步"; ObjectID = "hjc-bM-ihp"; */
+"hjc-bM-ihp.normalTitle" = "历史计步";
+
+/* Class = "IBUILabel"; text = "热  量"; ObjectID = "jDP-fN-FJ1"; */
+"jDP-fN-FJ1.text" = "热  量";
+
+/* Class = "IBUILabel"; text = "O"; ObjectID = "jrg-XK-d95"; */
+"jrg-XK-d95.text" = "O";
+
+/* Class = "IBUIButton"; normalTitle = "提醒"; ObjectID = "mM8-ee-LYz"; */
+"mM8-ee-LYz.normalTitle" = "提醒";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "pFI-Rq-JPI"; */
+"pFI-Rq-JPI.text" = "2";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "rTr-tj-kcP"; */
+"rTr-tj-kcP.text" = "Label";
+
+/* Class = "IBUILabel"; text = "步  数"; ObjectID = "wv4-Xk-zep"; */
+"wv4-Xk-zep.text" = "步  数";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "xLV-Lw-zem"; */
+"xLV-Lw-zem.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "当天计步"; ObjectID = "xu8-aQ-I6l"; */
+"xu8-aQ-I6l.normalTitle" = "当天计步";
+
+/* Class = "IBUITabBarItem"; title = "设置"; ObjectID = "y27-pl-jEG"; */
+"y27-pl-jEG.title" = "设置";
+
+/* Class = "IBUIButton"; normalTitle = "睡眠监控"; ObjectID = "z7L-vo-D6a"; */
+"z7L-vo-D6a.normalTitle" = "睡眠监控";
