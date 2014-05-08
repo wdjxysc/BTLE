@@ -80,6 +80,7 @@
                 [mydateFormatter setDateFormat:@"yyyy-MM-dd HH:mm:ss"];
                 [mydateFormatter setTimeZone:[NSTimeZone timeZoneWithName:@"UTC"]];
                 
+                
                 NSString *beginDateStr = [mydateFormatter stringFromDate:begindate];
                 NSString *endDateStr = [mydateFormatter stringFromDate:enddate];
                 
