@@ -124,6 +124,9 @@
     }
     else if((UIButton *)sender == self.tudayButton1)
     {
+        
+        
+        
         if(self.tudayButton1.tintColor == [UIColor blueColor])
         {
             self.tudayButton1.tintColor = [UIColor grayColor];
